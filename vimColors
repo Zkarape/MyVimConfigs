@@ -1,0 +1,7 @@
+" Define the background color
+highlight Normal ctermbg=black guibg=black
+
+" Define the text color for different syntax groups
+highlight Comment ctermfg=green guifg=green
+highlight String ctermfg=yellow guifg=yellow
+highlight Keyword ctermfg=red guifg=red
